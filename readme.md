@@ -1,4 +1,4 @@
 # LEARNING GIT 
-'''javascript
+```javascript
 console.log("hello");
-'''
+```
